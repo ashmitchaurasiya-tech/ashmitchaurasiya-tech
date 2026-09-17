@@ -39,15 +39,6 @@ web development and AI/ML.
 
 ---
 
-## 🚀 Projects
-
-- 💻 **C++ DSA** — Data Structures & Algorithms using C++
-- 🐍 **Python Projects** — Python programs and practice projects
-- 🌐 **Web Projects** — Websites built while learning
-- 🤖 **AI/ML Projects** — Coming soon
-
----
-
 ## 📚 Currently Learning
 
 **C++ → DSA → Web Development → AI/ML**
