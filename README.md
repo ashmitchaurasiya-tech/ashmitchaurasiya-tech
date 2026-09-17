@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/ashmit-chaurasiya">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45">
   </a>
   &nbsp;&nbsp;
@@ -11,11 +11,11 @@
     <img src="https://skillicons.dev/icons?i=github" width="45">
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/_aashmit_/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ashmitchaurasiya9@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45">
   </a>
 </p>
