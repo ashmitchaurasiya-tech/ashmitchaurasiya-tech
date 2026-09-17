@@ -62,9 +62,15 @@ web development and AI/ML.
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmitchaurasiya-tech&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitchaurasiya-tech&theme=tokyonight" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitchaurasiya-tech&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
 </p>
