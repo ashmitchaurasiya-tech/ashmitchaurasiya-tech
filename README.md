@@ -2,21 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ashmitt+Chaurasiya" alt="Ashmitt Chaurasiya" />
 </p>
 
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ashmitchaurasiya-tech">
+    <img src="https://skillicons.dev/icons?i=github" width="45">
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45">
+  </a>
+</p>
+
 <h3 align="center">
 C++ & DSA | Python | Web Development | AI/ML
 </h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashmit-chaurasiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/ashmitchaurasiya-tech">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/u/_aashmit_/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-</p>
 
 ---
 
