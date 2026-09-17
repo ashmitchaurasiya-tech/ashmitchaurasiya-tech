@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="center">
-C++ & DSA | Python | Web Development | AI/ML
+C/C++ & DSA | Python | Web Development | AI/ML
 </h3>
 
 ---
@@ -42,7 +42,7 @@ web development and AI/ML.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode">
 </p>
 
 ---
