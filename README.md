@@ -45,11 +45,10 @@ web development and AI/ML.
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitchaurasiya-tech&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ashmitchaurasiya-tech&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
